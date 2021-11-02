@@ -1,0 +1,43 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3 {
+display: inline;
+ }
+.contact_1 a {
+text-shadow: none;
+ } 
+ input {
+  background: rgba(20, 220, 153, 0.856)
+             }
+.campuslife_mainDiv {
+border: 1px solid #b34a4a;
+ padding-left: 0px;
+ padding-right: 0px;
+ float: none 
+ }
+ .campuslife_mainDiv img {
+  width: 100%; 
+} 
+ .campuslife_mainDiv hr { 
+  width: 230px;
+ } 
+ .campuslife_mainDiv h5 , .travel_mainDiv p {
+  margin-left: 20px; 
+ }
+  .achevements_head { 
+   font-size: 20px;
+    padding: 6px 22px;
+     border-radius: 10px;
+      margin-bottom: 15px;
+       width: 100%; 
+       display: inline-block;
+     } 
+     .achevements_head i {
+          float: right; 
+        } 
+        .achivements_text span {
+             color: #ff7700;
+             }
+    
